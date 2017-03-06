@@ -1,0 +1,28 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haoshuaiya/myblog.git"
+  },
+  "author": "leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haoshuaiya/myblog/issues"
+  },
+  "homepage": "https://github.com/haoshuaiya/myblog#readme",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "cookies": "^0.7.0",
+    "express": "^4.15.0",
+    "jquery": "^3.1.1",
+    "markdown": "^0.5.0",
+    "mongoose": "^4.8.5",
+    "swig": "^1.4.2"
+  }
+}
